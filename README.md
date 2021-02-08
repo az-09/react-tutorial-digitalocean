@@ -8,3 +8,10 @@ https://www.digitalocean.com/community/tutorials/how-to-style-react-components
 2. Styling with Style Objects
 
 3. Styling with JSS
+
+### How To Manage State with Hooks on React Components
+
+https://www.digitalocean.com/community/tutorials/how-to-manage-state-with-hooks-on-react-components
+
+1. Setting State with useState
+
