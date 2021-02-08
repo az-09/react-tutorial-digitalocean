@@ -15,3 +15,4 @@ https://www.digitalocean.com/community/tutorials/how-to-manage-state-with-hooks-
 
 1. Setting State with useState
 
+2. Setting State with useReducer
